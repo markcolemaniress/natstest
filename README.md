@@ -8,13 +8,15 @@ Start a NATS message queue server in a Docker container using
 
 ## Projects
 Build and run the server project:
-```cd natsserver
+```
+cd natsserver
 dotnet build
 dotnet run
 ```
 
 Build and run the client project:
-```cd natsclient
+```
+cd natsclient
 dotnet build
 dotnet run
 ```
