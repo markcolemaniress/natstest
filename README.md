@@ -1,6 +1,9 @@
 # natstest
 Test for NATS queue
 
+## Requirements
+Docker
+
 ## NATS Server
 Start a NATS message queue server in a Docker container using 
 
