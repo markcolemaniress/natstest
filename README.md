@@ -17,7 +17,7 @@ dotnet build
 dotnet run
 ```
 
-Build and run the client project:
+In a separate command window, build and run the client project:
 ```
 cd natsclient
 dotnet build
