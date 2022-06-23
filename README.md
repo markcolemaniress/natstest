@@ -2,7 +2,7 @@
 Test for NATS queue
 
 ## Requirements
-Docker
+Docker - needed to run a NATS message queue server
 
 ## NATS Server
 Start a NATS message queue server in a Docker container using 
