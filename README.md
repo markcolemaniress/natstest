@@ -25,3 +25,4 @@ dotnet run
 ```
 
 The client should publish a message to a NATS queue and the server should receive the message and display the contents.
+END
